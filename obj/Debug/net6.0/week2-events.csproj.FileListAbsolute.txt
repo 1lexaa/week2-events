@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/week2-events
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/week2-events.deps.json
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/week2-events.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/week2-events.dll
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/ref/week2-events.dll
+/Users/1lexaa/Documents/учеба/week2-events/bin/Debug/net6.0/week2-events.pdb
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.dll
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/ref/week2-events.dll
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.pdb
+/Users/1lexaa/Documents/учеба/week2-events/obj/Debug/net6.0/week2-events.genruntimeconfig.cache
